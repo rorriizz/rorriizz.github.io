@@ -17,16 +17,16 @@
    flex-basis: 50%;
  }
 .languages{
-  color: #009CFF;
+  color: #00a3cb;
 }
 .tools{
-  color: #009CFF;
+  color: #00a3cb;
 }
 .frameworks{
-  color: #009CFF;
+  color: #00a3cb;
 }
 .other{
-  color: #009CFF;
+  color: #00a3cb;
 }
 
 html {
@@ -783,7 +783,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #009CFF;
+  color: #00a3cb;
 }
 
 blockquote {
