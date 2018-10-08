@@ -13,10 +13,8 @@ Headings by default:
 ### Heading second level
 #### Heading third level
 
-{% highlight markdown %}
-## Heading first level
-### Heading second level
-#### Heading third level
+{% highlight java %}
+System.out.println("Hola mor");
 {% endhighlight %}
 
 ## Lists
