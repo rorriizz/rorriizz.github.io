@@ -1,22 +1,22 @@
 # Profile information
-name: /b3li4d
-title: b3li4d - developer & ethical hacker
+name: /rorriizz
+title: rorriizz - developer & computer science
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "b3li4d.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "rorriizz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
 facebook: #Add your Facebook
-twitter: b3li4d
+twitter: rorriizz
 google-plus: #Add your Google+
-github: B3LI4D
+github: rorriizz
 
 # Contact form
-email: b3li4d@protonmail.com
+email: rorriizz@protonmail.com
 
 # Comments
 discus-identifier: # Add your Disqus identifier
