@@ -14,7 +14,7 @@ Headings by default:
 #### Heading third level
 
 {% highlight java %}
-  System.out.println("Hola mor");
+System.out.println("Hola mor");
 {% endhighlight %}
 
 ## Lists

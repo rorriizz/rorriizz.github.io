@@ -1033,7 +1033,7 @@ img.post-image, img.page-img {
   transition: all .4s;
 }
 .form-btn:hover {
-  background-color: #009CFF;
+  background-color: #00a3cb;
 }
 
 @media screen and (max-width: 960px) {
