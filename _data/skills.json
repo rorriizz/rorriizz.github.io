@@ -1,0 +1,6 @@
+{
+    "languages": ["Java","Golang", "Python", "SQL", "Markdown"],
+    "tools": [ "IntelliJ IDEA", "Pycharm", "DataGrip", "Virtualbox"],
+    "frameworks": ["Django", "Flask"],
+    "other": ["Git", "GNU/Linux"]
+}

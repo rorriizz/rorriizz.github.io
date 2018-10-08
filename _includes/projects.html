@@ -1,0 +1,12 @@
+<section class="projects">
+  <h2 class="section-heading">
+    <span>b3li4d@b3li4d:~$</span>
+    <span> ls projects/</span>
+  </h2>
+  <ul>{% for project in site.data.projects.projects %}
+    <li>
+      <a href="{{project.url}}">{{ project.name }}</a>
+      <span> {{ project.desc }}</span>
+    </li>{% endfor %}
+  </ul>
+</section>
