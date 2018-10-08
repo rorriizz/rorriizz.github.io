@@ -1,6 +1,6 @@
 {
-    "languages": ["Java","Golang", "Python", "SQL", "Markdown"],
-    "tools": [ "IntelliJ IDEA", "Pycharm", "DataGrip", "Virtualbox"],
-    "frameworks": ["Django", "Flask"],
-    "other": ["Git", "GNU/Linux"]
+    "languages": ["Java", "Python", "SQL", "NodeJS", "Markdown"],
+    "tools": [ "Eclipse", "Atom"],
+    "frameworks": ["API.o"],
+    "other": ["Git", "Lep Motion", "Intel RealSense"]
 }
