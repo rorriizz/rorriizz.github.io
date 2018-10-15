@@ -6,7 +6,6 @@ description: Configuración inicial Leap Motion.
 ---
 ## Empezando con Leap Motion:
 
-
 Si eres nuevo como yo en Leap Motion intentaré ayudarte para que no pases por mis errores.
 Lo primero que intenté hacer fue descargar la útima versión del SDK del Leap Motion, pero no iba por ahí [1]. Aparecía que el "dispositivo no estaba conectado".
 Así que, siguiendo instrucciones de [1], bajé el software V2 y lo necesario para ejecutarlo en W10.
