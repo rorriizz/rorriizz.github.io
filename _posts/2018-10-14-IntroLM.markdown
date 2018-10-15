@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Configuración de Leap Motion"
+date:   2018-10-14 00:00:00 +0200
+description: Configuración inicial Leap Motion.
+---
+## Empezando con Leap Motion:
+
+
+Si eres nuevo como yo en Leap Motion intentaré ayudarte para que no pases por mis errores.
+Lo primero que intenté hacer fue descargar la útima versión del SDK del Leap Motion, pero no iba por ahí [1]. Aparecía que el "dispositivo no estaba conectado".
+Así que, siguiendo instrucciones de [1], bajé el software V2 y lo necesario para ejecutarlo en W10.
+El siguiente paso fue poner los assets correspondientes a la versión, los pueden encontrar en [2] y seguir los pasos correspondientes. Si se les complica esta sección les dejo para que descarguen de aquí [3] y les indico como hacer este paso.
+Ya teniendo instalado Unity (5.1.x) Van a Assets>Import Package>Custom Package.
+Y listo, podrán probar los demos sin problema.
+
+
+1.[Doesn't detect Leap Motion Controller on App Home - App Store - Leap Motion Community](https://forums.leapmotion.com/t/doesnt-detect-leap-motion-controller-on-app-home/7416)
+2.[Leap Motion Unity Assets and Plugin — Leap Motion Unity SDK v2.3 documentation](https://developer-archive.leapmotion.com/documentation/v2/unity/index.html)
+3.[Releases · leapmotion/LeapMotionCoreAssets · GitHub](https://github.com/leapmotion/LeapMotionCoreAssets/releases?after=prerelease-v2.4.0)
