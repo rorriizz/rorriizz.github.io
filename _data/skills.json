@@ -2,5 +2,5 @@
     "languages": ["Java", "Python", "JavaScript", "SQL", "NodeJS", "Markdown"],
     "tools": [ "Eclipse", "Atom"],
     "frameworks": ["API.o"],
-    "other": ["Git", "Lep Motion", "Intel RealSense"]
+    "other": ["Git", "Leap Motion"]
 }
