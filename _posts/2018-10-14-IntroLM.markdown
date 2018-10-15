@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Configuración de Leap Motion"
-date:   2018-10- 00:00:00 +0200
+date:   2018-10-14 00:00:00 +0200
 description: Configuración inicial Leap Motion.
 ---
 

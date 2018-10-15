@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bienvenido"
-date:   2018-10- 00:00:00 +0200
+date:   2018-10-08 00:00:00 +0200
 description: Bienvenidos a mi primer post.
 ---
 
