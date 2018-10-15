@@ -14,5 +14,5 @@ System.out.println("Espero que les ayude <3");
 {% endhighlight %}
 
 ## Frase
->“El investigador sufre las decepciones, los largos meses pasados en una dirección equivocada, los fracasos. Pero los fracasos son también útiles, porque, bien analizados, pueden conducir al éxito.”
+> “El investigador sufre las decepciones, los largos meses pasados en una dirección equivocada, los fracasos. Pero los fracasos son también útiles, porque, bien analizados, pueden conducir al éxito.”
 SIR ALEXANDER FLEMING
