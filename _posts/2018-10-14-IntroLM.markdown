@@ -4,6 +4,7 @@ title:  "Configuración de Leap Motion"
 date:   2018-10- 00:00:00 +0200
 description: Configuración inicial Leap Motion.
 ---
+
 ## Empezando con Leap Motion:
 
 Si eres nuevo como yo en Leap Motion intentaré ayudarte para que no pases por mis errores.
