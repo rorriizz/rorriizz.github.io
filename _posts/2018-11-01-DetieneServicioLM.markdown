@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bienvenido"
+title:  "Servicio de Leap Motion"
 date:   2018-11-01 21:00:00 +0200
 description: Se detiene el servicio de Leap Motion
 ---
