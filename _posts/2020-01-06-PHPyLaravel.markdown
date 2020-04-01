@@ -2,7 +2,7 @@
 layout: post
 title:  "PHP y Laravel"
 date:   2020-01-06 21:00:00 +0200
-description: Se detiene el servicio de Leap Motion
+description: Comenzar con PHP y laravel
 ---
 
 comando para ver que versión de php se tiene:
